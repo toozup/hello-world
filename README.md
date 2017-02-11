@@ -1,2 +1,3 @@
 # hello-world
 first of...
+im here to learn what i can but i have differculties so it could be a long slow process
